@@ -1,22 +1,25 @@
 
  
-TASK 2.ipynb
-TASK 2.ipynb_
+
+
 1 ) Consider i = 2, Write a program to convert i to float.
 (Expected Output = 2.0 )
 [ ]
 #please enter the code below this line
-Float i=2
-Format_float= format(float)
-Print (format_float)
+If (i=2)
+    Print(i)
 2 )Consider x="Hello" and y="World" , then write a program to concatinate the strings to a single string and print the result.
 
       ( Expected output = Hello World )
 [ ]
 #please enter the code below this line
-Enter first string: Hello
-Enter second string: world
-Output: Hello world
+Var1="Hello"
+Var2="world"
+Var3=var1+var2
+    Print (var3)
 3 ) Consider pi = 3.14 . print the value of pie and its type.
 
 [ ]
+#please enter the code below this line
+Float (pi=3.14)
+    Print(float)
